@@ -20,7 +20,5 @@ Shows filesystem disk usage
 ##Technologies Used
 
 Bash Scripting
-
 Linux Commands
-
 Tested on Ubuntu Linux
