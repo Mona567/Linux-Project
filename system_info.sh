@@ -6,5 +6,8 @@ top -bn1 | grep "Cpu(s)"
 echo "---- RAM Usage ----"
 free -m
 
-echo "---- Disk Usage ----"
+echo "---- Directory Usage ----"
 du -h
+
+echo "---- Disk Usage ----"
+df -h
