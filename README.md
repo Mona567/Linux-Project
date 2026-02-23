@@ -4,7 +4,7 @@ A Bash script that displays basic system resource usage including CPU, RAM, and 
 
 
 
-Features
+##Features
 
 Displays current CPU usage
 
@@ -17,7 +17,7 @@ Shows filesystem disk usage
 
 
 
-Technologies Used
+##Technologies Used
 
 Bash Scripting
 
